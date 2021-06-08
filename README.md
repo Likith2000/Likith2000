@@ -4,8 +4,9 @@
 
 <hr/>
 <h3>Connect with me on the web:</h3>
-
-<a href="https://www.linkedin.com/in/likithsrinath/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="likithsrinath" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/likithsrinath?trk=profile-badge">Likith Srinath</a></div>
+              
 
 <!--
 **Likith2000/Likith2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
