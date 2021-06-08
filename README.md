@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋,  I'm Likith
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true)]()
+###
+
+<hr/>
+<h3>Connect with me on the web:</h3>
+
+<a href="https://www.linkedin.com/in/likithsrinath/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
 
 <!--
 **Likith2000/Likith2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
