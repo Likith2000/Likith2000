@@ -17,7 +17,6 @@
   <a href="mailto:likithsrinath2000@gmail.com"><img src="https://img.shields.io/badge/-Mail-white?style=flat&logo=gmail&labelColor=white"></a>
   <a href="https://www.linkedin.com/in/likithsrinath/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
 </p>
-<a href="https://www.linkedin.com/in/likithsrinath/" target="_blank"><img src="/linkedin.png" align="left" height="48" width="48" ></a>
               
 
 <!--
