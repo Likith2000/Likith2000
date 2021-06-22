@@ -27,7 +27,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:likithsrinath2000@gmail.com"><img src="https://img.shields.io/badge/-Mail-white?style=flat&logo=gmail&labelColor=white"></a>
+  <a href="mailto:likithsrinath2000@gmail.com"><img src="https://img.shields.io/badge/-Mail-white?style=flat&logo=gmail&labelColor=black"></a>
   <a href="https://www.linkedin.com/in/likithsrinath/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
 </p>
               
