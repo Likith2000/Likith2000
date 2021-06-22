@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Likith
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true)]()
 ###
 
 <hr/>
