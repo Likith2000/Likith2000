@@ -1,5 +1,6 @@
 ### Hi there 👋,  I'm Likith
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true)]()
+[![My Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Likith2000&layout=compact&langs_count=8&theme=tokyonight)]()
 ###
 
 <hr/>
