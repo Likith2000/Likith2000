@@ -30,6 +30,7 @@
 <p align="center">
   <a href="mailto:likithsrinath2000@gmail.com"><img src="https://img.shields.io/badge/-Mail-black?style=flat&logo=gmail&labelColor=black"></a>
   <a href="https://www.linkedin.com/in/likithsrinath/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
+  <a href="https://t.me/likith2000"><img src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram"></a>
 </p>
               
 
