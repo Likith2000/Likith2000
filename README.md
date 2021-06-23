@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on NodeJS projects
+- 🌱 I’m currently learning Cloud Computing
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,9 +36,6 @@
 <!--
 **Likith2000/Likith2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
