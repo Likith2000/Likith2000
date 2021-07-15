@@ -1,5 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Likith! </h1>
 
+<h3 align="center">Pre-final year student passionate about Full Stack Development!</h3>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on NodeJS projects
@@ -7,18 +9,17 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<p align="center">
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=npm)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=Cplusplus&logoColor=FFA518)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-</p>
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=npm)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=Cplusplus&logoColor=FFA518)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
