@@ -9,6 +9,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<p align="center">
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=npm)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
