@@ -10,14 +10,14 @@
 ### 🛠 &nbsp;Tech Stack
 
 <p align="center">
-  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://nodejs.org/en/docs/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  
 </p>
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=npm)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=Cplusplus&logoColor=FFA518)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
