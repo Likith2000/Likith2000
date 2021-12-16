@@ -28,7 +28,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="160em" alt="readme-stats" src="https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true"/>
+<!--   <img height="160em" alt="readme-stats" src="https://github-readme-stats.vercel.app/api/?username=Likith2000&count_private=true&theme=tokyonight&showicons=true"/> -->
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Likith2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Likith2000&theme=dark"/>
   <img height="160em" alt="readme-stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Likith2000&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
