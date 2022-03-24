@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img alt="waveGif" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Likith! </h1>
 
-<h3 align="center">Pre-final year student passionate about Full Stack Development!</h3>
+<h3 align="center">Final year student passionate about Full Stack Development!</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
